@@ -6,7 +6,7 @@
 using namespace std;
 
 
-static QString filepath = "/home/adrian/Documents/example.dat";
+static QString filepath = "/home/example.dat";
 static QString filepath_temp;
 
 int fileFormat = 1;
