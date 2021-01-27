@@ -1,3 +1,5 @@
+# :warning: The program is currently being refactored, please keep that in mind 
+
 # CAEN-Normandy-DAQ
 Data Acquisition software for CAEN devices
 Compatible with CAEN N6730B and it's family devices
